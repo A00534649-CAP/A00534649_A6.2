@@ -1,0 +1,16 @@
+[
+  {
+    "hotel_id": "H001",
+    "name": "Hotel Grand Plaza",
+    "location": "New York",
+    "total_rooms": 150,
+    "available_rooms": 148
+  },
+  {
+    "hotel_id": "H002",
+    "name": "Beach Resort Paradise",
+    "location": "Miami Beach",
+    "total_rooms": 200,
+    "available_rooms": 200
+  }
+]
